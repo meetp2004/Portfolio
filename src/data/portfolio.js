@@ -18,7 +18,7 @@ export default [
     {
         title: "Network Attack Detection",
         image: network,
-        link: "https://example.com/project3",
+        link: "https://github.com/meetp2004/Network-Attack-Detection",
         stack: ["Python", "Tensorflow", "matplotlib"]
     }
 ];
