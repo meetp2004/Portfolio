@@ -3,10 +3,9 @@ import React from "react";
 function PortfolioItem({title,image,link,stack}) {
     return (
         <div className="border-2 border-stone-900 rounded-md overflow-hidden dark:border-white">
-        <a href={link}><img 
+        <a href={link} target="_blank" ><img 
             src={image} 
             alt={title}
-            target="_blank" 
             className="w-full h-36 md:h-48 object-cover cursor-pointer" 
             /></a>
             <div className="w-full p-4">
