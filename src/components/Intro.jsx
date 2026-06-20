@@ -9,7 +9,7 @@ function Intro() {
                 <h1 className="text-4xl md:text-7xl mb-1 md:mb-3 font-bold">Meet Patel</h1>
                 <p className="text-base md:text-xl mb-3 font-medium">Software & Data Engineer</p>
                 <p className="text-sm max-w-xl mb-6 font-medium text-stone-500 dark:text-stone-400">
-                    Hey there! I'm a third-year Computer Science student at McMaster University, passionate about all things data, from engineering pipelines to uncovering insights through analytics. I'm big on solving complex problems, especially when it involves cloud tech (AWS, GCP) or machine learning. I am always looking for opportunities to enhance my skills and gain practical industry experience. <br></br><br></br>Currently looking for a 2026 Winter Internship in areas such as Software Engineering, Data Engineering and AI/ML, let's connect!
+                    Hey there! I'm a fifth-year Computer Science student at McMaster University, passionate about all things data, from engineering pipelines to uncovering insights through analytics. I'm big on solving complex problems, especially when it involves cloud tech (AWS, GCP) or machine learning. I am always looking for opportunities to enhance my skills and gain practical industry experience. <br></br><br></br>Currently seeking a 2027 Winter internship in areas such as Software Engineering, Data Engineering, and AI/ML — let's connect!
                 </p>
             </div>
             <img
